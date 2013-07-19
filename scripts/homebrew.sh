@@ -19,9 +19,6 @@ brew install tree
 # Git
 brew install git
 
-# GitHub
-brew install hub
-
 # CTags
 brew install ctags
 
@@ -39,9 +36,6 @@ brew install ngrep
 
 # ImageMagick
 brew install imagemagick
-
-# Graphviz
-brew install graphviz
 
 # FFmpeg
 brew install ffmpeg

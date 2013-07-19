@@ -63,3 +63,6 @@ install_dmg_app "$SKYPE_APP_URL" "$SKYPE_APP_FILE" "Skype" "$SKYPE_APP_NAME"
 
 # VirtualBox
 install_dmg_pkg "$VIRTUAL_BOX_APP_URL" "$VIRTUAL_BOX_APP_FILE" "VirtualBox" "$VIRTUAL_BOX_APP_NAME"
+
+# Vagrant
+install_dmg_pkg "$Vagrant_APP_URL" "$Vagrant_APP_FILE" "Vagrant" "$Vagrant_APP_NAME"

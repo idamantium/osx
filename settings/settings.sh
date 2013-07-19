@@ -149,3 +149,7 @@ export SKYPE_APP_NAME=Skype.app
 export VIRTUAL_BOX_APP_URL=http://dlc.sun.com.edgesuite.net/virtualbox/4.2.12
 export VIRTUAL_BOX_APP_FILE=VirtualBox-4.2.12-84980-OSX.dmg
 export VIRTUAL_BOX_APP_NAME=VirtualBox.app
+
+export VAGRANT_APP_URL=http://files.vagrantup.com/packages/0219bb87725aac28a97c0e924c310cc97831fd9d/
+export VAGRANT_APP_FILE=Vagrant-1.2.4.dmg
+export VAGRANT_APP_NAME=Vagrant.app
