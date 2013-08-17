@@ -5,7 +5,7 @@
 
 # EXECUTION
 # Dotfiles
-git clone git@github.com:masterots/dotfiles.git
+git clone https://github.com/masterots/dotfiles.git
 (
   cd dotfiles
   ./run.sh i
